@@ -1,0 +1,7 @@
+C:\Users\sener\Desktop\C #\TypesAndVeriables\TypesAndVeriables\bin\Debug\TypesAndVeriables.exe.config
+C:\Users\sener\Desktop\C #\TypesAndVeriables\TypesAndVeriables\bin\Debug\TypesAndVeriables.exe
+C:\Users\sener\Desktop\C #\TypesAndVeriables\TypesAndVeriables\bin\Debug\TypesAndVeriables.pdb
+C:\Users\sener\Desktop\C #\TypesAndVeriables\TypesAndVeriables\obj\Debug\TypesAndVeriables.csprojAssemblyReference.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\TypesAndVeriables\obj\Debug\TypesAndVeriables.csproj.CoreCompileInputs.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\TypesAndVeriables\obj\Debug\TypesAndVeriables.exe
+C:\Users\sener\Desktop\C #\TypesAndVeriables\TypesAndVeriables\obj\Debug\TypesAndVeriables.pdb
