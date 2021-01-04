@@ -1,0 +1,7 @@
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Loops\bin\Debug\Loops.exe.config
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Loops\bin\Debug\Loops.exe
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Loops\bin\Debug\Loops.pdb
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Loops\obj\Debug\Loops.exe
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Loops\obj\Debug\Loops.pdb
