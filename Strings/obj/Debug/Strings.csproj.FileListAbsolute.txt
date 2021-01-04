@@ -1,0 +1,7 @@
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Strings\bin\Debug\Strings.exe.config
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Strings\bin\Debug\Strings.exe
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Strings\bin\Debug\Strings.pdb
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Strings\obj\Debug\Strings.exe
+C:\Users\sener\Desktop\C #\TypesAndVeriables\Strings\obj\Debug\Strings.pdb

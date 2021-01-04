@@ -10,12 +10,36 @@ namespace Loops
     {
         static void Main(string[] args)
         {
-            //ForLoop();
-            //WhileLoop();
-            //DoWhileLoop();
-            //ForEachLoop();
+            //ForLoop(); 1
+            //WhileLoop(); 2
+            //DoWhileLoop(); 3
+            //ForEachLoop(); 4
+
+            if (IsPrimeNumber(7)) //asal sayı 5
+            {
+                Console.WriteLine("This is a prime number");
+            }
+            else
+            {
+                Console.WriteLine("This is not a prime number");
+            }
 
             Console.ReadLine();
+        }
+
+        private static bool IsPrimeNumber(int number) //asal sayı
+        {
+            bool result = true;
+            for (int i = 2; i < number - 1; i++)
+            {
+                if (number % i == 0)
+                {
+                    result = false;
+                    i = number;
+                }
+            }
+            return result;
+
         }
 
         private static void ForEachLoop()   //dizi temelli
