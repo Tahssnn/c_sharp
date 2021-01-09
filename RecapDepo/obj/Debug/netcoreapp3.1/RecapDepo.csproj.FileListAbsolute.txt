@@ -1,0 +1,15 @@
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\bin\Debug\netcoreapp3.1\RecapDepo.exe
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\bin\Debug\netcoreapp3.1\RecapDepo.deps.json
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\bin\Debug\netcoreapp3.1\RecapDepo.runtimeconfig.json
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\bin\Debug\netcoreapp3.1\RecapDepo.runtimeconfig.dev.json
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\bin\Debug\netcoreapp3.1\RecapDepo.dll
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\bin\Debug\netcoreapp3.1\RecapDepo.pdb
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\obj\Debug\netcoreapp3.1\RecapDepo.csprojAssemblyReference.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\obj\Debug\netcoreapp3.1\RecapDepo.Form1.resources
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\obj\Debug\netcoreapp3.1\RecapDepo.csproj.GenerateResource.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\obj\Debug\netcoreapp3.1\RecapDepo.AssemblyInfoInputs.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\obj\Debug\netcoreapp3.1\RecapDepo.AssemblyInfo.cs
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\obj\Debug\netcoreapp3.1\RecapDepo.csproj.CoreCompileInputs.cache
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\obj\Debug\netcoreapp3.1\RecapDepo.dll
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\obj\Debug\netcoreapp3.1\RecapDepo.pdb
+C:\Users\sener\Desktop\C #\TypesAndVeriables\RecapDepo\obj\Debug\netcoreapp3.1\RecapDepo.genruntimeconfig.cache
